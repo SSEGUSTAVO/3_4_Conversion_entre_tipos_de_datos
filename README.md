@@ -16,7 +16,7 @@
 
 – Vuelva a agregar 1 a esta variable e imprímala de nuevo.
 
-Se comienza declarando la variable y corriendo el programa, dónde nos aparece el error mostrado.
+Se crea el archivo -tipovar- y se comienza el ejercicio declarando la variable y corriendo el programa, dónde aparece el error mostrado.
 
 ![Ejercicio 3_4_1](https://user-images.githubusercontent.com/54320247/64361502-4b01c600-cfd2-11e9-8457-3433d70b9807.jpg)
 
@@ -54,3 +54,10 @@ Declare e inicialice 3 valores String con los datos siguientes:
 
 – Lea el mensaje de error.
 
+Se crea el archivo -conversiones- y se realiza el primer punto del ejercicio, encontrando el valor de los impuestos.
+
+![Ejercicio 3_5_2](https://user-images.githubusercontent.com/54320247/64371084-57434e80-cfe5-11e9-9f33-ad3e1a58223e.jpg)
+
+Se realizan los siguientes puntos econtrando errores de incompatibilidad en los tipos de datos.
+
+![Ejercicio 3_5_3](https://user-images.githubusercontent.com/54320247/64371091-59a5a880-cfe5-11e9-842d-6ece286027e9.jpg)
