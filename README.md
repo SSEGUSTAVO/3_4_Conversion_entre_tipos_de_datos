@@ -40,18 +40,8 @@ Se continúa con el ejercicio declarando el segundo byte e incrementandolo para 
 
 Declare e inicialice 3 valores String con los datos siguientes:
 
-|Variable de String |                      Description                        |  Valores de ejemplo    |
+![Ejercicio 3_5_1](https://user-images.githubusercontent.com/54320247/64368253-822aa400-cfdf-11e9-8624-441f797d3b01.jpg)
 
--------------------------------------------------------------------------------------------------------|
-
-|    shirtPrice     |        Texto que se va a convertir en un valor int:     |         "15"           |
-
-|      taxRate      |        Texto que se va a convertir en un valor double:  |        "0.05"          |
-
-|     gibberish     |                       Gibberish                         |   "887ds7nds87dsfs"    |
-
--------------------------------------------------------------------------------------------------------
-     
 • Analice y multiplique shirtPrice*taxRate para averiguar el impuesto.
 
 – Imprima este valor.
@@ -63,3 +53,4 @@ Declare e inicialice 3 valores String con los datos siguientes:
 • Intente analizar gibberish como un valor int.
 
 – Lea el mensaje de error.
+
