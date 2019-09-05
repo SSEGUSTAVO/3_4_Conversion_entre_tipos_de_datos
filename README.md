@@ -35,3 +35,31 @@ Al correr el programa se muestra un error de incompatibilidad de tipo, esto se a
 Se continúa con el ejercicio declarando el segundo byte e incrementandolo para luego imprimirlo. Se resuelve que en todos los puntos el resultado es el mismo -128 que indica el desbordamiento de las variables tipo byte.
 
 ![Ejercicio 3_4_5](https://user-images.githubusercontent.com/54320247/64361519-5228d400-cfd2-11e9-8bd4-b080c864199a.jpg)
+
+# 3_4_Ejercicio_2
+
+Declare e inicialice 3 valores String con los datos siguientes:
+
+|Variable de String |                      Description                        |  Valores de ejemplo    |
+
+-------------------------------------------------------------------------------------------------------|
+
+|    shirtPrice     |        Texto que se va a convertir en un valor int:     |         "15"           |
+
+|      taxRate      |        Texto que se va a convertir en un valor double:  |        "0.05"          |
+
+|     gibberish     |                       Gibberish                         |   "887ds7nds87dsfs"    |
+
+-------------------------------------------------------------------------------------------------------
+     
+• Analice y multiplique shirtPrice*taxRate para averiguar el impuesto.
+
+– Imprima este valor.
+
+• Intente analizar taxRate como un valor int.
+
+– Lea el mensaje de error.
+
+• Intente analizar gibberish como un valor int.
+
+– Lea el mensaje de error.
